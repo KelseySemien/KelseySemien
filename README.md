@@ -60,7 +60,7 @@ Technical Writing · Annotation Workflow Design · Agile Delivery · Stakeholder
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([linkedin.com/in/kelsey-semien-08153470])  
-📄 [My Resume](./GraduateResume.pdf)  
+ 
 📧 ksemien8@gmail.com
 
 ---
